@@ -1,4 +1,4 @@
-![logo]([https://github.com/muhammadhamzajabbar567/muhammadhamzajabbar567/blob/main/10744114.jpg](https://github.com/muhammadhamzajabbar567/muhammadhamzajabbar567/blob/main/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg))
+![logo](https://github.com/muhammadhamzajabbar567/muhammadhamzajabbar567/blob/main/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Jabbar</h1>
 <h3 align="center">Python Developer|C# Developer|Machine Learning|MS SQL Programmer</h3>
 
