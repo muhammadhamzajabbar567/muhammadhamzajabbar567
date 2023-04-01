@@ -1,4 +1,4 @@
-![logo](https://github.com/muhammadhamzajabbar567/muhammadhamzajabbar567/blob/main/images%20(3).jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Jabbar</h1>
 <h3 align="center">Python Developer|C# Developer|Machine Learning|MS SQL Programmer</h3>
 
