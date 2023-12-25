@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Web Based Projects**
 
-- 🤝 I’m looking for help with **Data Science and Web 3.0 Development**
+- 🤝 I’m looking for help with **Data Science,Data Analysation and Web Scraping **
 
 - 💬 Ask me about **HTML,CSS,Python,C#,Javascript**
 
