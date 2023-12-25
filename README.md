@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Numpy,Scipy,Pandas,Python Matplotlib,MongoDB**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning Web and Scraping Projects**
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning and Web Scraping Projects**
 
 - 🤝 I’m looking for help with **Data Science and Data Analysation Scenarios**
 
