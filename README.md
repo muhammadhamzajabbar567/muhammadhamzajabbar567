@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning Web Scraping Projects**
 
-- 🤝 I’m looking for help with **Data Science,Data Analysation**
+- 🤝 I’m looking for help with **Data Science and Data Analysation Scenarios**
 
 - 💬 Ask me about **HTML,CSS,Python,C#,Javascript**
 
