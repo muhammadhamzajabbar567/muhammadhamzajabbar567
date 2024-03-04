@@ -31,7 +31,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Jabbar</h1>
-<h3 align="center">Jr.Machine Learning Engineer</h3>
+<h3 align="center">Jr. Data Scientist | Jr. Machine Learning Engineer | Jr. Data Analyst </h3>
 
 
 <a href="https://player.vimeo.com/external/537861011.sd.mp4?s=20b9b8a94ad405668c86a1c4d01ffe6ba190bfb4&profile_id=164&oauth2_token_id=57447761" width="400" align="right"></a>
@@ -53,25 +53,12 @@
 
 - 📫 How to reach me **hamzamughal8096@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="null" height="30" width="40" /></a>
-<a href="https://twitter.com/mhamzam79576819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhamzam79576819" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hamza-jabbar-74151a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hamza-jabbar-74151a214" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15367662/hamza-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15367662/hamza-mughal" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100028599995481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100028599995481" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/m_hamza_rizvi_567/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m_hamza_rizvi_567/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/muhammajabbar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/muhammajabbar1" height="30" width="40" /></a>
-<a href="https://medium.com/@hamzajabbar403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamzajabbar403" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclp3eqdgevzosneojfqpuxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclp3eqdgevzosneojfqpuxa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/hamza_jabbar_567/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hamza_jabbar_567/" height="30" width="40" /></a>
-<a href="https://discord.gg/MUHAMMAD_HAMZA_JABBAR#8590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MUHAMMAD_HAMZA_JABBAR#8590" height="30" width="40" /></a>
-<a href="/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="null" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MasabBinZia&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhamzajabbar567&show_icons=true&locale=en&layout=compact" alt="muhammadhamzajabbar567" /></p>
 
