@@ -1,4 +1,35 @@
-![logo](https://github.com/muhammadhamzajabbar567/muhammadhamzajabbar567/blob/main/git%201.jpg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+<h1 align="center">
+  Let's Connect and Have a Chat! 💬
+</h1>
+<p align="center">
+  <a href="www.linkedin.com/in/muhammad-hamza-jabbar-74151a214">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  <a href="https://medium.com/@hamzamughal8096">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+  </a>
+  <a href="https://dev.to/muhammadhamzajabbar567">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  </a>
+  <a href="https://twitter.com/Muhamma09306359">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  </a>
+  <a href="https://instagram.com/m_hamzajabbar_567>
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZxMnJyeXdpc2hiY291aHR5aXU4cGljbXltMGI4azkxOHByM3hjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+</p>
+  
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,ml,ai,powerbi,sqlserver,c#" alt="TechStack"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Jabbar</h1>
 <h3 align="center">Jr.Machine Learning Engineer</h3>
 
