@@ -5,7 +5,7 @@
   Let's Connect and Have a Chat! 💬
 </h1>
 <p align="center">
-  <a href="www.linkedin.com/in/muhammad-hamza-jabbar-74151a214">
+  <a href="https://www.linkedin.com/in/muhammad-hamza-jabbar-74151a214/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="https://medium.com/@hamzamughal8096">
@@ -27,7 +27,7 @@
   
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,ml,ai,powerbi,sqlserver,c#" alt="TechStack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,r,python,pytorch,scikitlearn,tensorflow,mysql,pycharm,vscode,visualstudio" alt="TechStack"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Jabbar</h1>
