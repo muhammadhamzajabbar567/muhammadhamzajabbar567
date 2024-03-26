@@ -43,7 +43,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhamzam79576819" target="blank"><img src="https://img.shields.io/twitter/follow/mhamzam79576819?logo=twitter&style=for-the-badge" alt="mhamzam79576819" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning,Numpy,Scipy,Pandas,Python Matplotlib,MongoDB**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Generative AI**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning and Web Scraping Projects**
 
