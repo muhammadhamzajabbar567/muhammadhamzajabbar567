@@ -31,7 +31,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Jabbar</h1>
-<h3 align="center">Jr. Data Scientist | Jr. Machine Learning Engineer | Jr. Data Analyst </h3>
+<h3 align="center"> Data Scientist |  Machine Learning Engineer |  Data Analyst </h3>
 
 
 <a href="https://player.vimeo.com/external/537861011.sd.mp4?s=20b9b8a94ad405668c86a1c4d01ffe6ba190bfb4&profile_id=164&oauth2_token_id=57447761" width="400" align="right"></a>
