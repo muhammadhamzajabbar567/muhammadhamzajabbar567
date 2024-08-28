@@ -31,7 +31,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Jabbar</h1>
-<h3 align="center"> Data Scientist |  Machine Learning Engineer |  Data Analyst </h3>
+<h3 align="center"> Data Scientist |  Machine Learning Engineer |  Data Analyst | Django RESTFramework Developer </h3>
 
 
 <a href="https://player.vimeo.com/external/537861011.sd.mp4?s=20b9b8a94ad405668c86a1c4d01ffe6ba190bfb4&profile_id=164&oauth2_token_id=57447761" width="400" align="right"></a>
@@ -45,7 +45,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Generative AI**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning and Web Scraping Projects**
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning and Django RESTFramework (DRF) Projects**
 
 - 🤝 I’m looking for help with **Data Science and Data Analysation Scenarios**
 
